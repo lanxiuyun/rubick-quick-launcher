@@ -1,0 +1,1 @@
+# rubick-quick-launcher
