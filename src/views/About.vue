@@ -6,7 +6,8 @@ const naiv_url = "https://www.naiveui.com/zh-CN/os-theme";
 const pixel_url = "https://maomentai817.github.io/pixel-ui/";
 
 const openExternalLink = (url: string) => {
-  window.open(url, "_blank");
+  // window.open(url, "_blank");
+  window.rubick.shellOpenExternal(url);
 };
 </script>
 
