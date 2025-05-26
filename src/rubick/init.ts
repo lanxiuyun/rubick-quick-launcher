@@ -1,8 +1,8 @@
 import type { App } from "vue";
 
-const { spawn } = window.require("child_process");
-
 export function onPluginReady(app: App) {
+  const { spawn } = window.require("child_process");
+
   window.rubick.onPluginReady(
     async ({
       code,

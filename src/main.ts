@@ -13,7 +13,9 @@ import { onPluginReady } from "./rubick/init";
 
 const app = createApp(App);
 
-onPluginReady(app);
+if (window.rubick) {
+  onPluginReady(app);
+}
 app.use(createPinia());
 app.use(router);
 
