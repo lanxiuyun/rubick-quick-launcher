@@ -68,6 +68,11 @@ const openExternalLink = (url: string) => {
   margin-top: 1.5rem;
 }
 
+.acknowledgment-item:hover {
+  cursor: var(--px-cursor-pointer-src), auto;
+  background-color: #f0f2f5;
+}
+
 .icon-wrapper {
   display: flex;
   align-items: center;
