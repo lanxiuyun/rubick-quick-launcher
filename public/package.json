@@ -1,0 +1,24 @@
+{
+  "name": "lanxiuyun-quick-launcher",
+  "pluginName": "快捷启动",
+  "version": "0.0.1",
+  "description": "快捷启动",
+  "main": "index.html",
+  "preload": "preload.js",
+  "logo": "https://pic1.zhimg.com/80/v2-c4b9ea27fde09f7e985a5fc77d922680_720w.png",
+  "pluginType": "ui",
+  "features": [
+    {
+      "code": "quick-launcher",
+      "explain": "快捷启动",
+      "cmds": [
+        "快捷启动",
+        "quick-launcher"
+      ]
+    }
+  ],
+  "author": "lanxiuyun",
+  "license": "MIT",
+  "development": "http://localhost:4001",
+  "homePage": "https://github.com/lanxiuyun/rubick-quick-launcher"
+}
