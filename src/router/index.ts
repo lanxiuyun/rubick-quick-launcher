@@ -20,7 +20,7 @@ const router = createRouter({
       name: "about",
       component: AboutView,
       meta: {
-        title: "关于",
+        title: "特别鸣谢",
         icon: InfoCircleOutlined,
       },
     },
