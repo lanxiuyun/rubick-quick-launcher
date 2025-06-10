@@ -1,4 +1,5 @@
 # rubick-quick-launcher
+![image](https://github.com/user-attachments/assets/7e063d41-e569-45af-9572-c1b8de46e3df)
 
 ## 安装
 
