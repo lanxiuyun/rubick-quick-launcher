@@ -5,7 +5,7 @@
   "description": "快捷启动",
   "main": "index.html",
   "preload": "preload.js",
-  "logo": "https://pic1.zhimg.com/80/v2-c4b9ea27fde09f7e985a5fc77d922680_720w.png",
+  "logo": "https://avatars.githubusercontent.com/u/212650356?v=4",
   "pluginType": "ui",
   "features": [
     {
